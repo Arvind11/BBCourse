@@ -1,1 +1,1 @@
-"# BBKonyCertificate" 
+"# BBCertificate" 
